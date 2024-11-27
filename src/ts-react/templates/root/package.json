@@ -22,7 +22,7 @@
     "generate-library": "h5p-generate-configs l --type-definition ./src/library.ts --out ./library.json"
   },
   "dependencies": {
-    "h5p-utils": "3.2.1",
+    "h5p-utils": "3.2.2",
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
   },
